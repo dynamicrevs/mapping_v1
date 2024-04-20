@@ -11,6 +11,8 @@
 #define MOTOR_A2 23
 #define MOTOR_B1 24
 #define MOTOR_B2 25
+#define ENA 18
+#define ENB 22
 
 #define MAX_SPEED 1000
 #define MIN_SPEED 500
